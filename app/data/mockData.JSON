@@ -18,6 +18,7 @@
     {
       "day": 12,
       "title": "API Fetching & Error Handling",
+      "instructions": "Fetch data from a public API, handle loading and error states gracefully, and display the results in a clean, responsive UI.",
       "githubUrl": "https://github.com/yash/day12-api",
       "linkedinUrl": "https://linkedin.com/in/yash/post/123",
       "submittedAt": "2026-08-07T23:15:00Z"
@@ -25,6 +26,7 @@
     {
       "day": 11,
       "title": "Responsive Flexbox Gallery",
+      "instructions": "Build a responsive image gallery using Flexbox. It should look great on a 390px mobile screen and scale up on larger viewports.",
       "githubUrl": "https://github.com/yash/day11-gallery",
       "linkedinUrl": "https://linkedin.com/in/yash/post/122",
       "submittedAt": "2026-08-06T22:45:00Z"
