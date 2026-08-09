@@ -4,7 +4,9 @@ import { ArrowLeft, CalendarDays, ListChecks } from "lucide-react";
 import mockData from "@/app/data/mockData.json";
 import { ProofOfWorkForm } from "./proof-form";
 
-type DayPageProps = PageProps<"/day/[id]">;
+type DayPageProps = {
+  params: Promise<{ id: string }>;
+};
 
 function getChallenge(dayId: number) {
   if (mockData.todaysTask.day === dayId) {
