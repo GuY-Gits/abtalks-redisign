@@ -23,7 +23,7 @@ function getChallenge(dayId: number) {
     return {
       day: pastChallenge.day,
       title: pastChallenge.title,
-      instructions: pastChallenge.instructions,
+      instructions: "Instructions for past challenges are archived.",
     };
   }
 
