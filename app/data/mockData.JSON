@@ -1,35 +1,33 @@
 {
-  "user": {
-    "name": "Yash Chende",
-    "avatarUrl": "https://api.dicebear.com/9.x/avataaars/svg?seed=Yash",
-    "currentStreak": 12,
-    "bestStreak": 12,
-    "daysCompleted": 12,
-    "totalDays": 60,
-    "standing": "Top 5%"
-  },
-  "todaysTask": {
-    "day": 13,
-    "title": "State Management with Context API",
-    "description": "Build a theme toggler (Light/Dark mode) using React Context. Make sure the user preference is saved in localStorage.",
-    "status": "pending"
-  },
-  "pastSubmissions": [
-    {
-      "day": 12,
-      "title": "API Fetching & Error Handling",
-      "instructions": "Fetch data from a public API, handle loading and error states gracefully, and display the results in a clean, responsive UI.",
-      "githubUrl": "https://github.com/yash/day12-api",
-      "linkedinUrl": "https://linkedin.com/in/yash/post/123",
-      "submittedAt": "2026-08-07T23:15:00Z"
+    "user": {
+      "name": "Yash Chende",
+      "avatarUrl": "https://api.dicebear.com/9.x/avataaars/svg?seed=Yash",
+      "currentStreak": 12,
+      "bestStreak": 12,
+      "daysCompleted": 12,
+      "totalDays": 60,
+      "standing": "Top 5%"
     },
-    {
-      "day": 11,
-      "title": "Responsive Flexbox Gallery",
-      "instructions": "Build a responsive image gallery using Flexbox. It should look great on a 390px mobile screen and scale up on larger viewports.",
-      "githubUrl": "https://github.com/yash/day11-gallery",
-      "linkedinUrl": "https://linkedin.com/in/yash/post/122",
-      "submittedAt": "2026-08-06T22:45:00Z"
-    }
-  ]
-}
+    "todaysTask": {
+      "day": 13,
+      "title": "State Management with Context API",
+      "description": "Build a theme toggler (Light/Dark mode) using React Context. Make sure the user preference is saved in localStorage.",
+      "status": "pending"
+    },
+    "pastSubmissions": [
+      {
+        "day": 12,
+        "title": "API Fetching & Error Handling",
+        "githubUrl": "https://github.com/yash/day12-api",
+        "linkedinUrl": "https://linkedin.com/in/yash/post/123",
+        "submittedAt": "2026-08-07T23:15:00Z"
+      },
+      {
+        "day": 11,
+        "title": "Responsive Flexbox Gallery",
+        "githubUrl": "https://github.com/yash/day11-gallery",
+        "linkedinUrl": "https://linkedin.com/in/yash/post/122",
+        "submittedAt": "2026-08-06T22:45:00Z"
+      }
+    ]
+  }
