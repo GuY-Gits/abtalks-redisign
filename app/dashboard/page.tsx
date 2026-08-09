@@ -10,7 +10,7 @@ import {
   Sparkles,
   Trophy,
 } from "lucide-react";
-import mockData from "../data/mockData.json";
+import mockData from "../_data/mockData.json";
 
 function formatSubmittedAt(isoDate: string) {
   return new Intl.DateTimeFormat("en-IN", {
